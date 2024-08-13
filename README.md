@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" width="1000" src="https://media.istockphoto.com/id/1251342090/fr/photo/astronaute-flottant-dans-lespace.jpg?s=612x612&w=0&k=20&c=FNItFMHzTPfIg9naIpzk7u_JFmIanmmiSDTOh1WGhGo="  />
+  <img height="500" width"1000" src="https://media.istockphoto.com/id/1251342090/fr/photo/astronaute-flottant-dans-lespace.jpg?s=612x612&w=0&k=20&c=FNItFMHzTPfIg9naIpzk7u_JFmIanmmiSDTOh1WGhGo="  />
 </div>
 
 ###
@@ -66,10 +66,13 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Monir-H-27.Monir-H-27&"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Monir-H-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=Monir-H-27&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Monir-H-27/Monir-H-27/output/snake.svg" alt="Snake animation" />
 
