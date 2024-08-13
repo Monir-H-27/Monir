@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://media.istockphoto.com/id/1251342090/fr/photo/astronaute-flottant-dans-lespace.jpg?s=612x612&w=0&k=20&c=FNItFMHzTPfIg9naIpzk7u_JFmIanmmiSDTOh1WGhGo="  />
+  <img height="500" width="1000" src="https://media.istockphoto.com/id/1251342090/fr/photo/astronaute-flottant-dans-lespace.jpg?s=612x612&w=0&k=20&c=FNItFMHzTPfIg9naIpzk7u_JFmIanmmiSDTOh1WGhGo="  />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<h4 align="center">👩‍💻  About Me</h4>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
